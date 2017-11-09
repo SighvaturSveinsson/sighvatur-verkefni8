@@ -1,1 +1,1 @@
-web: python forrit.py
+web: python verkefni8.py
